@@ -3,7 +3,7 @@ Distributor for running tasks in parallel.
 
 ## Installation
 ```
-go get github.com/skvdmt/tasker
+go get github.com/simpledevdima/tasker
 ```
 
 ## Example
@@ -12,7 +12,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/skvdmt/tasker"
+	"github.com/simpledevdima/tasker"
 )
 
 func main() {
